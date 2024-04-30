@@ -3,16 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay1103&label=Profile%20views&color=0e75b6&style=flat" alt="vinay1103" /> </p>
 
-### Blogs posts
+### My Latest Initiatives
 - 🔭 I’m currently working on Blockchain (Solidity) Project
 - 🌱 Currently learning Kotlin(Java) & SpringBoot(Java)
 - 👯 Eager to collaborate on innovative mobile app projects
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vinayyogeesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinayyogeesh" height="30" width="40" /></a>
-<a href="https://www.udemy.com/certificate/UC-4af42021-0efd-4756-a998-c944f91126b2/" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg" alt="yogeeshvinay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yogeeshvinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yogeeshvinay" height="30" width="40" /></a>
+<a href="https://www.udemy.com/certificate/UC-4af42021-0efd-4756-a998-c944f91126b2/" target="blank"><img align="center" src="https://logowik.com/content/uploads/images/udemy-new-20212512.jpg" alt="yogeeshvinay" height="30" width="40" /></a>
 </p>
 
 
