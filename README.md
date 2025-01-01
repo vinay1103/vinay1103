@@ -2,9 +2,7 @@
 <h3 align="center">An Aspiring Software Engineer based out of Bangalore</h3>
 
 ### My Latest Initiatives
-- 🔭 I’m currently working on Blockchain (Solidity) Project
-- 🌱 Currently learning Kotlin(Java) & SpringBoot(Java)
-- 👯 Eager to collaborate on innovative mobile app projects
+- 🌱 Currently learning LLD(Java) & DSA - 6 Companies 30days challenge (Python)
 
 <h3 align="left">My Profiles:</h3>
 <p align="left">
@@ -51,9 +49,6 @@
   </a> 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="60" height="60"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="60" height="60"/> 
   </a> 
 </p>
 
